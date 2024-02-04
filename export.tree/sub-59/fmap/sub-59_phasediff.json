@@ -1,0 +1,33 @@
+{
+    "AcquisitionNumber": 1, 
+    "AcquisitionTime": "14:42:24.062500", 
+    "BodyPartExamined": "BRAIN", 
+    "ConversionSoftware": "dcm2niix", 
+    "ConversionSoftwareVersion": "v1.0.20170724 (OpenJPEG build) GCC6.1.0", 
+    "DeviceSerialNumber": "167045", 
+    "EchoNumber": 2, 
+    "EchoTime1": 0.00519, 
+    "EchoTime2": 0.00738, 
+    "FlipAngle": 60, 
+    "ImageType": [
+        "ORIGINAL", 
+        "PRIMARY", 
+        "P", 
+        "ND"
+    ], 
+    "InstitutionAddress": "De_Pintelaan_185_Gent_District_BE_9000", 
+    "InstitutionName": "UGent", 
+    "MagneticFieldStrength": 3, 
+    "Manufacturer": "Siemens", 
+    "ManufacturersModelName": "Prisma_fit", 
+    "PhaseEncodingDirection": "i-", 
+    "PhaseEncodingLines": 84, 
+    "ProcedureStepDescription": "MR_hersenen_(structuur_alleen)_O", 
+    "ProtocolName": "gre_field_mapping_2.5mm", 
+    "RepetitionTime": 0.52, 
+    "ScanningSequence": "GR", 
+    "SequenceName": "_fm2d2r", 
+    "SequenceVariant": "SP", 
+    "SeriesDescription": "gre_field_mapping_2.5mm", 
+    "SoftwareVersions": "syngo_MR_E11"
+}
