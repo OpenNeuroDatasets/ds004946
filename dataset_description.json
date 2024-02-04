@@ -1,0 +1,20 @@
+{
+   "Name":"Brain mechanisms disciminating enactive mental simulations of runnning and plogging",
+   "BIDSVersion":"1.0.0rc1",
+   "Authors":[
+      "Roxane Philips",
+      "Chris Baeken",
+      "Joël Billieux",
+      "James Harris",
+      "Pierre Maurage",
+      "Ismael Muela",
+      "Irem Tugce Oz",
+      "Athur Pabst",
+      "Guillaume Sescousse",
+      "Claus Vögele",
+      "Damien Brevers"
+   ],
+   "Funding":[
+      "This work is supported by Luxembourg National Research Fund (FNR); CORE – Junior Track [BETHAB]"
+   ]
+}
